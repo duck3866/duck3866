@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 하고 싶은 게임을 만드는 게임 개발자 엄성민 입니다.
 <!--
 **duck3866/duck3866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
