@@ -13,5 +13,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866)](https://solved.ac/duck3866/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866)](https://solved.ac/duck3866/)
     
