@@ -12,6 +12,6 @@
          <a href=mailto:a44540159a@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a44540159a@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866)](https://solved.ac/duck3866/)
     </div>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866)](https://solved.ac/duck3866/)
     
