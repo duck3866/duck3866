@@ -9,7 +9,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 완벽한 코드는 한 번에 나오지 않는다고 생각합니다. 따라서, 꾸준히 더 나은 방법을 고민하고 개선하며, 
 유저와 개발자 모두가 만족할 수 있는 프로젝트를 만드는 것을 중요하게 생각합니다. </h2> <br> 
-    <div align= "center"> <a href=aumsm.kro.kr> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=aumsm.kro.kr"> </a>
+    <div align= "center"> <a href=aumsm.kro.kr> <img src="https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff?pvs=74"> </a>
          <a href=mailto:a44540159a@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a44540159a@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
