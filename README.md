@@ -11,6 +11,10 @@
 유저와 개발자 모두가 만족할 수 있는 프로젝트를 만드는 것을 중요하게 생각합니다. </h2> <br> 
     <div style="text-align: left;"> <a href=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff"> </a>
          <a href=mailto:a44540159a@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a44540159a@gmail.com"> </a>
-          </div>  <br> 
+        <!-- Solved.ac 백준 티어 배지 추가 -->
+    <a href="https://solved.ac/duck3866">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866" alt="Solved.ac Profile">
+    </a>
+    </div>  <br> 
     <div align= "left">  </div> 
     </div>
