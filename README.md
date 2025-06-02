@@ -9,6 +9,14 @@
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 완벽한 코드는 한 번에 나오지 않는다고 생각합니다. 따라서, 꾸준히 더 나은 방법을 고민하고 개선하며, 
 유저와 개발자 모두가 만족할 수 있는 프로젝트를 만드는 것을 중요하게 생각합니다. </h2> <br> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">정보</h2>
+        - 엄성민 <br>
+        - Email : a44540159a@gmail.com <br>
+        - 학력 : 대구소프트웨어마이스터고 (재학중 2026.03.02. 졸업 예정) <br>
+        - 연락처 : 010-4128-0159 <br>
+        - 생년월일 : 2007.02.27 <br>
+         <a href=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff"> </a>
+         <a href=mailto:a44540159a@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a44540159a@gmail.com"> </a>
      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">기술 스펙</h2>
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">유니티</h3>
         기초적인 사용법부터 시작하여, 다른 오브젝트 및 게임 매니저를 활용한 데이터 처리 방법을 다룰 수 있습니다. 또한, 디자인 패턴을 적용하여 구조적인 개발을 할 수 있습니다.<br>
@@ -27,15 +35,17 @@
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Git</h3>
         기본적인 개념을 익혔으며, PR(Pull Request) 및 Branch 관리 등 협업에 필요한 Git 기능을 이해하고 활용할 수 있습니다. <br>
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Figma</h3>
-        클래스 다이어그램 및 디자인 경험  <br>
+        클래스 다이어그램 제작 경험 및 디자인 경험  <br>
         <br>
-    <div style="text-align: left;"> <a href=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff"> </a>
-         <a href=mailto:a44540159a@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a44540159a@gmail.com"> </a>
+    <div style="text-align: left;">
     </a>
         <br>
         <!-- Solved.ac 백준 티어 배지 추가 -->
     <a href="https://solved.ac/duck3866">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866" alt="Solved.ac Profile">
     </div>  <br> 
+         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">자격증</h2>
+        - 정보처리산업기사 <br>
+        - 정보처리기능사 <br>
     <div align= "left">  </div> 
     </div>
