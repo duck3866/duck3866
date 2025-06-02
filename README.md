@@ -35,7 +35,7 @@
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Git</h3>
         기본적인 개념을 익혔으며, PR(Pull Request) 및 Branch 관리 등 협업에 필요한 Git 기능을 이해하고 활용할 수 있습니다. <br>
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Figma</h3>
-        클래스 다이어그램 제작 경험 및 디자인 경험  <br>
+        클래스 다이어그램 제작 경험 및 UI/UX 디자인 경험  <br>
         <br>
     <div style="text-align: left;">
     </a>
