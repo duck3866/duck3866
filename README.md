@@ -17,25 +17,23 @@
         - 생년월일 : 2007.02.27 <br>
          <a href=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff"> </a>
          <a href=mailto:a44540159a@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a44540159a@gmail.com"> </a>
-     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">기술 스펙</h2>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">유니티</h3>
-        기초적인 사용법부터 시작하여, 다른 오브젝트 및 게임 매니저를 활용한 데이터 처리 방법을 다룰 수 있습니다. 또한, 디자인 패턴을 적용하여 구조적인 개발을 할 수 있습니다.<br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">대표 경험</h3>
-        2d 플랫포머, 3d 공포게임, 멀티 게임 개발 경험 및 개인/팀 프로젝트 경험 <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">C#</h3>
-        기본 개념부터 객체지향 프로그래밍(OOP)을 이해하고 있으며, 간단한 자료구조를 구현할 수 있습니다. <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">대표 경험</h3>
-        C#을 사용하여 알고리즘 문제 해결, .Net 프레임워크 사용 경험 <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">C</h3>
-        기본 문법을 이해하고 있으며, 포인터의 개념까지 숙지하고 있습니다. <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Python</h3>
-        인터프리터 언어의 개념을 이해하고 있으며, 자료구조 및 알고리즘 문제를 구현할 수 있습니다. <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">JAVA</h3>
-        객체지향 개념을 숙지하고 있으며, PC방 API 조회 기능을 구현한 경험이 있습니다. <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Git</h3>
-        기본적인 개념을 익혔으며, PR(Pull Request) 및 Branch 관리 등 협업에 필요한 Git 기능을 이해하고 활용할 수 있습니다. <br>
-        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Figma</h3>
-        클래스 다이어그램 제작 경험 및 UI/UX 디자인 경험  <br>
+        <br>
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 기술 스택</h2>
+
+| 기술 | 설명 | 대표 경험 |
+|------|------|-----------|
+| **Unity** | 기초 사용법부터 오브젝트/매니저를 활용한 데이터 처리, 디자인 패턴 적용 가능 | 2D 플랫포머, 3D 공포게임, 멀티 게임, 개인/팀 프로젝트 |
+| **C#** | OOP 이해, 간단한 자료구조 구현 가능 | 알고리즘 문제 해결, .NET 프레임워크 사용 |
+| **C** | 기본 문법 및 포인터 개념 숙지 | - |
+| **Python** | 인터프리터 언어 개념 이해, 자료구조 및 알고리즘 구현 가능 | - |
+| **Java** | 객체지향 개념 이해, 간단한 API 구현 가능 | PC방 API 조회 기능 구현 |
+| **Git** | PR, 브랜치 관리 등 협업 기능 활용 가능 | 팀 프로젝트에서 Git 기반 협업 경험 |
+| **Figma** | 클래스 다이어그램 작성, UI/UX 디자인 가능 | UI 설계 및 프로토타이핑 |
+
+## 🧾 자격증
+
+- 정보처리산업기사  
+- 정보처리기능사  
         <br>
     <div style="text-align: left;">
     </a>
@@ -44,8 +42,5 @@
     <a href="https://solved.ac/duck3866">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duck3866" alt="Solved.ac Profile">
     </div>  <br> 
-         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">자격증</h2>
-        - 정보처리산업기사 <br>
-        - 정보처리기능사 <br>
     <div align= "left">  </div> 
     </div>
