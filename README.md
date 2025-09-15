@@ -4,7 +4,7 @@
 
 <div align= "left"> 
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there 👋 </h1>  
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 창의적인 아이디어를 실현하며, 플레이어에게 새로운 경험을 선사하는 게임 개발자 엄성민 입니다. </h1>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 창의적인 아이디어를 실현하며, 플레이어에게 새로운 경험을 선사하는 개발자 엄성민 입니다. </h1>  
 </div>
 
 <br>
