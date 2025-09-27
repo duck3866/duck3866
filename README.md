@@ -7,7 +7,6 @@
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 창의적인 아이디어를 실현하며, 피드백을 중요하게 생각하는 개발자 엄성민 입니다. </h1>  
 </div>
 
-<br>
 
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 완벽한 코드는 한 번에 나오지 않는다고 생각합니다. <br> 따라서, 꾸준히 더 나은 방법을 고민하고 개선하며,  <br>
@@ -28,12 +27,7 @@
 | 포트폴리오 | [Notion 바로가기](https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff) |
 
 <p>
-  <a href="https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  </a>
-  <a href="mailto:a44540159a@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
+  
 </p>
 
 ---
