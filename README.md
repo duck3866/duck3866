@@ -18,7 +18,7 @@
 | 이름 | **엄성민** |
 | 생년월일 | 2007.02.27 |
 | 연락처 | 010-4128-0159 |
-| 이메일 | [a44540159a@gmail.com](mailto:a44540159a@gmail.com) |
+| 이메일 | [eomsmin0159@gmail.com](mailto:eomsmin0159@gmail.com) |
 | 포트폴리오 | [Notion 바로가기](https://root-xylocarp-b3c.notion.site/c0b1af758b124e4da3b4d87bab7e1eff) |
 | 병역여부 | 미필(병역특례 가능) |
 
