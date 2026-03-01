@@ -27,11 +27,11 @@
 ## 기술 스택
 | 기술 | 설명 | 대표 경험 |
 |------|------|-----------|
-| <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=ffffff&style=for-the-badge" height="24" /> | 오브젝트·게임 매니저 활용, 디자인 패턴 적용 가능 | 2D 플랫포머, 3D 공포게임, 멀티 게임 |
+| <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=ffffff&style=for-the-badge" height="24" /> | 오브젝트, 게임 매니저 활용, 디자인 패턴 적용 가능 | 2D 플랫포머, 3D 공포게임, 멀티 게임 |
 | <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff&style=for-the-badge" height="24" /> | OOP 개념 이해, 구조 설계 및 자료구조 구현 가능 | 알고리즘 문제 해결, .NET 활용 |
 | <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" height="24" /> | 블루 프린트, C++ 개발 가능 | 블루 프린트 사용 개발 경험, 포인터 활용 경험 |
-| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="24" />  | 문법·포인터 개념 숙지 | 언리얼 프로젝트 경험, 알고리즘 문제 해결 |
-| <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000000&style=for-the-badge" height="24" />  | 문법·포인터 개념 숙지 | STM 마이크로컨트롤러 보드 |
+| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="24" />  | 문법, 포인터 개념 숙지 | 언리얼 프로젝트 경험, 알고리즘 문제 해결 |
+| <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000000&style=for-the-badge" height="24" />  | 문법, 포인터 개념 숙지 | STM 마이크로컨트롤러 보드 |
 | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff&style=for-the-badge" height="24" /> | 인터프리터 언어 및 알고리즘 구현 | PyGame, 알고리즘 문제 해결 |
 | <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=ffffff&style=for-the-badge" height="24" /> | 객체지향 개념 및 API 활용 | PC방 API 조회 기능 |
 | <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff&style=for-the-badge" height="24" /> | 브랜치 관리, PR 기반 협업 | 팀 프로젝트 협업 경험 |
